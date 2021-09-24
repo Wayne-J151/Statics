@@ -1,0 +1,2 @@
+# Statics
+note for Statics
